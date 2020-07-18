@@ -1,2 +1,4 @@
 # Real-Time-Face-Validation
-OpenCV + Python program that take a picture only if the person is showing his/her whole face in real time.
+a simple OpenCV + Python program that takes a picture only if the person is showing his/her whole face in real time.
+
+video: https://youtu.be/MvTEYJNW6fw
